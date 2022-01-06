@@ -5,7 +5,10 @@ author: "Ed Wong"
 date: "1/3/2022"
 output: html_document
 ---
+View the HTML output of the R Markdown report here
+https://htmlpreview.GitHub.io/? https://github.com/code-head/pml/blob/main/pml.html
 
+---
 
 ## Background
 
